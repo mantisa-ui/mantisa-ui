@@ -1,5 +1,5 @@
 💫 About Me:
-👨‍💻 I’m currently working on engineering immersive, fast, and accessible web experiences with Angular, React.js, and Next.js — turning clean TypeScript into even cleaner user interfaces. Currently rethinking how UI performance and design systems scale together in large applications.
+👩‍💻 I’m currently working on engineering immersive, fast, and accessible web experiences with Angular, React.js, and Next.js — turning clean TypeScript into even cleaner user interfaces. Currently rethinking how UI performance and design systems scale together in large applications.
 
 🤝 I’m looking to collaborate on Projects that challenge conventions — whether it’s a developer tool, a productivity app, or a bold frontend overhaul. I thrive in teams where code quality meets creativity.
 
